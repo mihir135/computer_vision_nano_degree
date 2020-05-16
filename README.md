@@ -1,4 +1,4 @@
-# Uacity Computer Vision Nano Degree
+# Udacity Computer Vision Nano Degree
 This repository contains my project submissions in order to complete and graduate Computer Vision nano degree from udacity.
 
 Feel free to explore.
@@ -8,6 +8,9 @@ Feel free to explore.
 </p>
 
 <hr>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Copyright (c) 2020 Mihir Rajput
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
