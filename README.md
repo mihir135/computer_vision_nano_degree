@@ -3,9 +3,11 @@ This repository contains my project submissions in order to complete and graduat
 
 Feel free to explore.
 
-<div style="text-align:center">Certificate</div>
-<div style="text-align:center"><img src="https://github.com/mihir135/computer_vision_nano_degree/blob/master/images/CVND.PNG?raw=true" /></div>
+<p align="center">
+  <img width="700" height="500" src="https://github.com/mihir135/computer_vision_nano_degree/blob/master/images/CVND.PNG">
+</p>
 
+<hr>
 Copyright (c) 2020 Mihir Rajput
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
